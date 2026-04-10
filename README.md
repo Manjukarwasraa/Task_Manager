@@ -1,24 +1,24 @@
-# 🚀 Task Manager (Full Stack MERN Application)
+#  Task Manager (Full Stack MERN Application)
 
 A modern and responsive **Task Manager Application** built using the **MERN stack (MongoDB, Express, React, Node.js)**.
 This project demonstrates full-stack development with clean architecture, RESTful APIs, and a user-friendly interface.
 
 ---
 
-## 📌 Features
+##  Features
 
-* ➕ Create new tasks
-* 📋 View all tasks
-* ✅ Mark tasks as completed
-* ✏️ Edit task titles
-* ❌ Delete tasks
-* 🔍 Filter tasks (All / Completed / Pending)
-* ⏳ Loading states and smooth user experience
-* 📱 Fully responsive design
+*  Create new tasks
+*  View all tasks
+*  Mark tasks as completed
+*  Edit task titles
+*  Delete tasks
+*  Filter tasks (All / Completed / Pending)
+*  Loading states and smooth user experience
+*  Fully responsive design
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -34,9 +34,9 @@ This project demonstrates full-stack development with clean architecture, RESTfu
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
-```bash id="xwq0iy"
+
 Task_Manager/
  ├── backend/
  │    ├── models/
@@ -49,42 +49,36 @@ Task_Manager/
  │    │    ├── components/
  │    │    ├── App.jsx
  │    │    └── App.css
-```
 
----
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 🔹 1. Clone the Repository
+###  1. Clone the Repository
 
-```bash id="7sl8o6"
+
 git clone https://github.com/Manjukarwasraa/Task_Manager.git
 cd Task_Manager
-```
 
----
 
-### 🔹 2. Backend Setup
+###  2. Backend Setup
 
-```bash id="1qsbmc"
+
 cd backend
 npm install
 node server.js
-```
 
----
 
-### 🔹 3. Frontend Setup
+###  3. Frontend Setup
 
-```bash id="kr56o9"
+
 cd frontend
 npm install
 npm run dev
-```
+
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint   | Description               |
 | ------ | ---------- | ------------------------- |
@@ -95,7 +89,7 @@ npm run dev
 
 ---
 
-## 💡 Key Highlights
+##  Key Highlights
 
 * Clean and modular backend structure
 * RESTful API design with proper error handling
@@ -105,16 +99,16 @@ npm run dev
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
-* 🔐 Authentication & Authorization
-* 🌍 Deployment with live demo
-* 🎨 Advanced UI improvements
-* 🧪 Testing
+*  Authentication & Authorization
+*  Deployment with live demo
+*  Advanced UI improvements
+*  Testing
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Manju Karwasra**
 
@@ -122,6 +116,6 @@ npm run dev
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
